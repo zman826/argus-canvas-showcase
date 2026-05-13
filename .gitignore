@@ -1,0 +1,39 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Ollama models（大容量のためGit外）
+tools/ollama/models/
+*.gguf
+
+# データ（機密の可能性）
+data/cases/*.json
+!data/cases/sample_*.json
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ログ
+*.log
+logs/
+
+# ChromaDB
+**/chroma_db/
+
+# Google Drive
+desktop.ini
