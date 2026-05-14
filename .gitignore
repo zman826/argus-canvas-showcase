@@ -23,6 +23,7 @@ data/cases/*.json
 # IDE
 .vscode/settings.json
 .idea/
+.claude/
 
 # OS
 .DS_Store
@@ -37,3 +38,10 @@ logs/
 
 # Google Drive
 desktop.ini
+
+# 音声認識PoC
+scripts/voice/samples/*.wav
+scripts/voice/samples/*.mp3
+scripts/voice/logs/
+scripts/voice/_temp/
+scripts/voice/benchmark_result.csv
