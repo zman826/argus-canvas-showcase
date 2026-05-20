@@ -2,6 +2,13 @@
 
 OpenAI Whisper モデル（ローカル動作、small 既定）を用いて、
 日本語音声を文字起こしする。初回ロード後はメモリキャッシュにより高速化。
+
+ASR 3層防御のうち Layer 1（語彙バイアス）を担当：
+- `transcribe_audio(..., initial_prompt=...)` で語彙ヒントを Whisper に与える
+- initial_prompt は scripts/rag/load_data.py:build_whisper_prompt() で生成された
+  シーマ事例固有名詞集をカンマ区切りで含む
+- Whisper はこのヒント語を出力に優先的に取り込むため、「ガーナー」「KAIROS」等の
+  カタカナ・英大文字固有名詞の認識率が向上する
 """
 from __future__ import annotations
 
@@ -54,18 +61,27 @@ def load_whisper_model(model_name: str = "small") -> Any:
     return model
 
 
-def transcribe_audio(wav_path: str, model: Any) -> dict[str, Any]:
+def transcribe_audio(
+    wav_path: str,
+    model: Any,
+    initial_prompt: str | None = None,
+) -> dict[str, Any]:
     """指定WAVファイルを日本語として文字起こしする.
 
     Args:
         wav_path: 文字起こし対象のWAVファイルパス。
         model: load_whisper_model() で取得したモデル。
+        initial_prompt: Whisper への語彙ヒント文字列（ASR Layer 1）。
+            None なら従来動作。シーマ事例から自動生成した固有名詞集を渡すと
+            「ガーナー」「KAIROS」「セネガルパビリオン」等の認識率が向上する。
+            最大 224 token（日本語で約 400 文字）まで有効。
 
     Returns:
         以下のキーを持つ辞書:
             - text (str): 文字起こし結果
             - language (str): 検出言語（常に "ja"）
             - duration_sec (float): 処理時間
+            - initial_prompt_chars (int): 使用された initial_prompt の文字数（0 なら未使用）
 
     Raises:
         FileNotFoundError: WAVファイルが存在しない。
@@ -75,9 +91,17 @@ def transcribe_audio(wav_path: str, model: Any) -> dict[str, Any]:
     if not p.exists():
         raise FileNotFoundError(f"音声ファイルが見つかりません: {wav_path}")
 
+    transcribe_kwargs: dict[str, Any] = {
+        "language": "ja",
+        "verbose": False,
+        "fp16": False,
+    }
+    if initial_prompt:
+        transcribe_kwargs["initial_prompt"] = initial_prompt
+
     start = time.time()
     try:
-        result = model.transcribe(str(p), language="ja", verbose=False, fp16=False)
+        result = model.transcribe(str(p), **transcribe_kwargs)
     except Exception as e:
         raise RuntimeError(f"文字起こし処理に失敗しました: {e}") from e
     elapsed = time.time() - start
@@ -86,6 +110,7 @@ def transcribe_audio(wav_path: str, model: Any) -> dict[str, Any]:
         "text": result.get("text", "").strip(),
         "language": result.get("language", "ja"),
         "duration_sec": elapsed,
+        "initial_prompt_chars": len(initial_prompt) if initial_prompt else 0,
     }
 
 

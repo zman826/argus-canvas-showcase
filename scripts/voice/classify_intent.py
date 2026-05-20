@@ -19,7 +19,12 @@ except ImportError as e:
 
 
 OLLAMA_URL: str = "http://localhost:11434/v1/chat/completions"
-MODEL: str = "gemma4:e4b"
+# NOTE: PoC実行PC（RTX 4050 6GB VRAM）では gemma4:e4b は 32%GPU/68%CPU 分割になり
+# レイテンシが 4〜28秒（σ=10秒）と不安定。実機ベンチで gemma3:4b（3.3〜4.0秒、σ=0.26秒）
+# が一貫して許容範囲内であることを確認したため PoC は gemma3:4b で運用する。
+# 本番ショールーム設置PC（gemma4:e4b が VRAM 全乗り可能な構成）では CLAUDE.md 標準の
+# gemma4:e4b に戻す想定。判断履歴は memory/project_argus_canvas_showcase.md 参照。
+MODEL: str = "gemma3:4b"
 
 # スクリプト位置: <project_root>/scripts/voice/classify_intent.py
 # プロンプト位置: <project_root>/data/prompts/intent_classification_v1.md

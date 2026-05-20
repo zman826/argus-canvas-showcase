@@ -16,9 +16,14 @@ venv/
 tools/ollama/models/
 *.gguf
 
-# データ（機密の可能性）
+# シーマ実データ（機密 + 大容量）
 data/cases/*.json
 !data/cases/sample_*.json
+data/cases/images/
+data/cases/manifest.json
+data/cases/chroma_db/
+data/cases/vocabulary.json
+# PROVENANCE.md は内容に機密を含まないため git 管理する
 
 # IDE
 .vscode/settings.json
