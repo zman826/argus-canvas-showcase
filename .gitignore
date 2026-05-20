@@ -16,14 +16,11 @@ venv/
 tools/ollama/models/
 *.gguf
 
-# シーマ実データ（機密 + 大容量）
-data/cases/*.json
-!data/cases/sample_*.json
+# シーマ実データ（HP公開情報のため軽量JSONは git 管理、大容量画像のみ除外）
+# cima_cases.json / manifest.json / vocabulary.json は git 管理（合計約170KB）
 data/cases/images/
-data/cases/manifest.json
 data/cases/chroma_db/
-data/cases/vocabulary.json
-# PROVENANCE.md は内容に機密を含まないため git 管理する
+# PROVENANCE.md, cima_cases.json, manifest.json, vocabulary.json は git 管理する
 
 # IDE
 .vscode/settings.json

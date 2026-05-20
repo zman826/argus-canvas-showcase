@@ -1,0 +1,1142 @@
+{
+  "by_id": {
+    "105": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_105\\JR-Shinjuku_2-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_105\\JR-Shinjuku_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_105\\JR-Shinjuku_6.jpg"
+      ],
+      "folder": "Case_105"
+    },
+    "106": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_106\\expo2025_yokorei_2-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_106\\expo2025_yokorei_3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_106\\expo2025_yokorei_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_106\\expo2025_yokorei_10.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_106\\expo2025_yokorei_11.jpg"
+      ],
+      "folder": "Case_106"
+    },
+    "107": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_107\\expo2025_senegal_9.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_107\\expo2025_senegal_7.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_107\\expo2025_senegal_10.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_107\\expo2025_senegal_4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_107\\expo2025_senegal_6.jpg"
+      ],
+      "folder": "Case_107"
+    },
+    "108": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_108\\LOJ2025_7-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_108\\LOJ2025_12-1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_108\\LOJ2025_6.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_108\\LOJ2025_3.jpg"
+      ],
+      "folder": "Case_108"
+    },
+    "109": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_109\\JapanMICEEXPO2025_3-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_109\\JapanMICEEXPO2025_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_109\\JapanMICEEXPO2025_13.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_109\\JapanMICEEXPO2025_8.jpg"
+      ],
+      "folder": "Case_109"
+    },
+    "110": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_110\\expo2025_commons-A_10.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_110\\expo2025_commons-A_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_110\\expo2025_commons-A_6.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_110\\expo2025_commons-A_4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_110\\expo2025_commons-A_7.jpg"
+      ],
+      "folder": "Case_110"
+    },
+    "111": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_111\\expo2025_kanadevia_3-scaled.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_111\\expo2025_kanadevia_1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_111\\expo2025_kanadevia_5-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_111\\expo2025_kanadevia_8-scaled.jpg"
+      ],
+      "folder": "Case_111"
+    },
+    "112": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_112\\JMS2025_yazaki_12.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_112\\JMS2025_yazaki_10.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_112\\JMS2025_yazaki_1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_112\\JMS2025_yazaki_6.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_112\\JMS2025_yazaki_11.jpg"
+      ],
+      "folder": "Case_112"
+    },
+    "113": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_113\\GanerHOTEL-OSAKAHonmachi_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_113\\GanerHOTEL-OSAKAHonmachi_6.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_113\\GanerHOTEL-OSAKAHonmachi_4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_113\\GanerHOTEL-OSAKAHonmachi_8.jpg"
+      ],
+      "folder": "Case_113"
+    },
+    "114": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_114\\expo2025_SpectacularShow_9-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_114\\expo2025_SpectacularShow_7.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_114\\expo2025_SpectacularShow_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_114\\expo2025_SpectacularShow_4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_114\\expo2025_SpectacularShow_3.jpg"
+      ],
+      "folder": "Case_114"
+    },
+    "115": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_115\\JS2026_14-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_115\\JS2026_11.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_115\\JS2026_7.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_115\\JS2026_8.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_115\\JS2026_10.jpg"
+      ],
+      "folder": "Case_115"
+    },
+    "1": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_1\\CSPI2025_komatsu_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_1\\CSPI2025_komatsu_3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_1\\CSPI2025_komatsu_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_1\\CSPI2025_komatsu_8.jpg"
+      ],
+      "folder": "Case_1"
+    },
+    "2": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_2\\abare2025_8-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_2\\abare2025_9.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_2\\abare2025_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_2\\abare2025_11.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_2\\abare2025_37.jpg"
+      ],
+      "folder": "Case_2"
+    },
+    "3": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_3\\hyogo_artm_5-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_3\\hyogo_artm_4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_3\\hyogo_artm_10.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_3\\hyogo_artm_6.jpg"
+      ],
+      "folder": "Case_3"
+    },
+    "4": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_4\\banpaku_hyogo_2-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_4\\banpaku_hyogo_3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_4\\banpaku_hyogo_6.jpg"
+      ],
+      "folder": "Case_4"
+    },
+    "5": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_5\\banpaku_kobelco_3-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_5\\banpaku_kobelco_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_5\\banpaku_kobelco_9.jpg"
+      ],
+      "folder": "Case_5"
+    },
+    "6": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_6\\JAPANCRAFTEXPO_4-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_6\\JAPANCRAFTEXPO_8.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_6\\JAPANCRAFTEXPO_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_6\\JAPANCRAFTEXPO_6.jpg"
+      ],
+      "folder": "Case_6"
+    },
+    "7": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_7\\qbe2025_1-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_7\\qbe2025_7.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_7\\qbe2025_6.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_7\\qbe2025_3.jpg"
+      ],
+      "folder": "Case_7"
+    },
+    "8": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_8\\SE2025_1-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_8\\SE2025_8.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_8\\SE2025_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_8\\SE2025_9.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_8\\SE2025_3.jpg"
+      ],
+      "folder": "Case_8"
+    },
+    "9": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_9\\20250321-104033-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_9\\20250321-112637-2-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_9\\20250321-102704-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_9\\20250321-101514-scaled.jpg"
+      ],
+      "folder": "Case_9"
+    },
+    "10": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_10\\js2025_11-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_10\\js2025_1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_10\\js2025_7.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_10\\js2025_2.jpg"
+      ],
+      "folder": "Case_10"
+    },
+    "11": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_11\\DealerMeeting2025_2-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_11\\DealerMeeting2025_9.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_11\\DealerMeeting2025_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_11\\DealerMeeting2025_6.jpg"
+      ],
+      "folder": "Case_11"
+    },
+    "12": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_12\\taiyo_mapping2024_15-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_12\\taiyo_mapping2024_20.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_12\\taiyo_mapping2024_18.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_12\\taiyo_mapping2024_7.jpg"
+      ],
+      "folder": "Case_12"
+    },
+    "13": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_13\\js2025_1-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_13\\js2025_6.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_13\\js2025_4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_13\\js2025_8.jpg"
+      ],
+      "folder": "Case_13"
+    },
+    "14": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_14\\unection_03-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_14\\unection_06.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_14\\unection_08.jpg"
+      ],
+      "folder": "Case_14"
+    },
+    "15": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_15\\okinawa2024_5-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_15\\okinawa2024_6.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_15\\okinawa2024_4.jpg"
+      ],
+      "folder": "Case_15"
+    },
+    "16": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_16\\morisawa100_3-1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_16\\morisawa100_15.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_16\\morisawa100_2-1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_16\\morisawa100_1-1.jpg"
+      ],
+      "folder": "Case_16"
+    },
+    "17": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_17\\miceexpo2024_17-1731x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_17\\miceexpo2024_10.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_17\\miceexpo2024_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_17\\miceexpo2024_13.jpg"
+      ],
+      "folder": "Case_17"
+    },
+    "18": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_18\\yumenohoshi_2-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_18\\yumenohoshi_11.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_18\\yumenohoshi_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_18\\yumenohoshi_6.jpg"
+      ],
+      "folder": "Case_18"
+    },
+    "19": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_19\\jr-ueno_cl_5_2-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_19\\jr-ueno_cl_8_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_19\\jr-ueno_cl_10-1.jpg"
+      ],
+      "folder": "Case_19"
+    },
+    "20": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_20\\hikari-kyoen_2023_6.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_20\\hikari-kyoen_2023_2-2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_20\\hikari-kyoen_2023_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_20\\hikari-kyoen_2023_3.jpg"
+      ],
+      "folder": "Case_20"
+    },
+    "21": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_21\\Nijyojyo2024-Spring_cl_3.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_21\\Nijyojyo2024-Spring_cl_8.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_21\\Nijyojyo2024-Spring_cl_11.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_21\\Nijyojyo2024-Spring_cl_4.jpg"
+      ],
+      "folder": "Case_21"
+    },
+    "22": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_22\\supekutakuru_15-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_22\\supekutakuru_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_22\\supekutakuru_12.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_22\\supekutakuru_05_2.jpg"
+      ],
+      "folder": "Case_22"
+    },
+    "23": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_23\\sikiten2024_07-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_23\\sikiten2024_09.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_23\\sikiten2024_06_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_23\\sikiten2024_03.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_23\\sikiten2024_11.jpg"
+      ],
+      "folder": "Case_23"
+    },
+    "24": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_24\\naked2023-uji_cl_3.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_24\\naked2023-uji_cl_5-2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_24\\naked2023-uji_cl_6.jpg"
+      ],
+      "folder": "Case_24"
+    },
+    "25": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_25\\Matsuri-Hiwasa_cl_17-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_25\\Matsuri-Hiwasa_cl_11.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_25\\Matsuri-Hiwasa_cl_13.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_25\\Matsuri-Hiwasa_cl_18.jpg"
+      ],
+      "folder": "Case_25"
+    },
+    "26": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_26\\banpaku2023-11-1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_26\\banpaku2023-11-11.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_26\\banpaku2023-11-2-3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_26\\banpaku2023-11-8.jpg"
+      ],
+      "folder": "Case_26"
+    },
+    "27": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_27\\NAKED_shiyakusyo_6-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_27\\NAKED_shiyakusyo_12_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_27\\NAKED_shiyakusyo_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_27\\NAKED_shiyakusyo_1.jpg"
+      ],
+      "folder": "Case_27"
+    },
+    "28": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_28\\NAKED_Umekoji_cl_05_2.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_28\\NAKED_Umekoji_cl_06.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_28\\NAKED_Umekoji_cl_02.jpg"
+      ],
+      "folder": "Case_28"
+    },
+    "29": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_29\\NAKED-Nijyojyo2023-A_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_29\\NAKED-Nijyojyo2023-A_06.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_29\\NAKED-Nijyojyo2023-A_09.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_29\\NAKED-Nijyojyo2023-A_04.jpg"
+      ],
+      "folder": "Case_29"
+    },
+    "30": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_30\\NAKED-Nijyojyo2023_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_30\\NAKED-Nijyojyo2023_03.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_30\\NAKED-Nijyojyo2023_06.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_30\\NAKED-Nijyojyo2023_12.jpg"
+      ],
+      "folder": "Case_30"
+    },
+    "31": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_31\\world-yo-yo-vontest2023_18-2.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_31\\world-yo-yo-vontest2023_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_31\\world-yo-yo-vontest2023_06-3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_31\\world-yo-yo-vontest2023_07-2.jpg"
+      ],
+      "folder": "Case_31"
+    },
+    "32": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_32\\panakabuso_sam-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_32\\3874f454b7caa91f539169e339aa8455.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_32\\PanaGmos2023_1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_32\\PanaGmos2023_2.jpg"
+      ],
+      "folder": "Case_32"
+    },
+    "33": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_33\\PlayBrain_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_33\\PlayBrain_7.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_33\\PlayBrain_5.jpg"
+      ],
+      "folder": "Case_33"
+    },
+    "34": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_34\\2dd1c0945ec8577aabba9018932d463b-2025x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_34\\TEDxKYOTO2023-11-1709x1139.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_34\\TEDxKYOTO2023-2-1709x1139.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_34\\TEDxKYOTO2023-19-1673x1139.jpg"
+      ],
+      "folder": "Case_34"
+    },
+    "35": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_35\\nsokyoto_1-scaled.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_35\\nsokyoto_6-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_35\\nsokyoto_5-scaled.jpg"
+      ],
+      "folder": "Case_35"
+    },
+    "36": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_36\\jiosaito_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_36\\jiosaito_03.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_36\\jiosaito_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_36\\jiosaito_05.jpg"
+      ],
+      "folder": "Case_36"
+    },
+    "37": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_37\\igas_morisawa_cl_3-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_37\\igas_morisawa_cl_4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_37\\igas_morisawa_cl_1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_37\\igas_morisawa_cl_2_2.jpg"
+      ],
+      "folder": "Case_37"
+    },
+    "38": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_38\\mukou_cl_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_38\\mukou_cl_3_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_38\\mukou_cl_4.jpg"
+      ],
+      "folder": "Case_38"
+    },
+    "39": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_39\\motoise_1_2_cl-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_39\\motoise_2_4_cl.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_39\\motoise_4_cl.jpg"
+      ],
+      "folder": "Case_39"
+    },
+    "40": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_40\\ama2022_5_2-1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_40\\ama2022_1-1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_40\\ama2022_10-1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_40\\ama2022_12.jpg"
+      ],
+      "folder": "Case_40"
+    },
+    "41": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_41\\twbc2022_1-7-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_41\\twbc2022_1-8-2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_41\\twbc2022_1-9.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_41\\twbc2022_2-2.jpg"
+      ],
+      "folder": "Case_41"
+    },
+    "42": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_42\\okayama2022_01-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_42\\okayama2022_08.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_42\\okayama2022_06.jpg"
+      ],
+      "folder": "Case_42"
+    },
+    "43": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_43\\kingyo_2022_07-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_43\\kingyo_2022_10.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_43\\kingyo_2022_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_43\\kingyo_2022_09.jpg"
+      ],
+      "folder": "Case_43"
+    },
+    "44": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_44\\chiben_wakayama_j_2-1709x1139.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_44\\chiben_wakayama_j_1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_44\\chiben_wakayama_j_6.jpg"
+      ],
+      "folder": "Case_44"
+    },
+    "45": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_45\\gifu_aeon_001.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_45\\gifu_aeon_009.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_45\\gifu_aeon_010.jpg"
+      ],
+      "folder": "Case_45"
+    },
+    "46": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_46\\m-hikiage_001.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_46\\m-hikiage_019.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_46\\m-hikiage_004.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_46\\m-hikiage_007_2.jpg"
+      ],
+      "folder": "Case_46"
+    },
+    "47": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_47\\atoa_4_cave.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_47\\atoa_5_marinenote.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_47\\atoa_1_planets.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_47\\atoa_6_elements.jpg"
+      ],
+      "folder": "Case_47"
+    },
+    "48": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_48\\theater_0021_2.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_48\\theater_0011.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_48\\theater_004.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_48\\theater_0018.jpg"
+      ],
+      "folder": "Case_48"
+    },
+    "49": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_49\\shop_entrance_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_49\\shop_entrance_05.jpg"
+      ],
+      "folder": "Case_49"
+    },
+    "50": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_50\\konoike_05.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_50\\konoike_03.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_50\\konoike_02.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_50\\konoike_07.jpg"
+      ],
+      "folder": "Case_50"
+    },
+    "51": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_51\\hokushu_3.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_51\\hokushu_1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_51\\hokushu_2.jpg"
+      ],
+      "folder": "Case_51"
+    },
+    "52": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_52\\chiben_wakayama_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_52\\chiben_wakayama_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_52\\chiben_wakayama_05.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_52\\chiben_wakayama_07.jpg"
+      ],
+      "folder": "Case_52"
+    },
+    "53": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_53\\nagoya_starcats_02.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_53\\nagoya_starcats_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_53\\nagoya_starcats_03.jpg"
+      ],
+      "folder": "Case_53"
+    },
+    "54": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_54\\icck2022_02_2.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_54\\icck2022_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_54\\icck2022_09.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_54\\icck2022_10.jpg"
+      ],
+      "folder": "Case_54"
+    },
+    "55": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_55\\eco_cl_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_55\\eco_cl_00.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_55\\eco_cl_03.jpg"
+      ],
+      "folder": "Case_55"
+    },
+    "56": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_56\\nuitblanche_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_56\\nuitblanche_03.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_56\\nuitblanche_08.jpg"
+      ],
+      "folder": "Case_56"
+    },
+    "57": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_57\\amanohashidate_2021_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_57\\amanohashidate_2021_07.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_57\\amanohashidate_2021_03.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_57\\amanohashidate_2021_04.jpg"
+      ],
+      "folder": "Case_57"
+    },
+    "58": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_58\\u_mg_02.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_58\\u_mg_06.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_58\\u_mg_03.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_58\\u_mg_01.jpg"
+      ],
+      "folder": "Case_58"
+    },
+    "59": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_59\\bridgestone_03.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_59\\bridgestone_01.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_59\\bridgestone_10.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_59\\bridgestone_06.jpg"
+      ],
+      "folder": "Case_59"
+    },
+    "60": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_60\\kawasui_08-scaled.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_60\\kawasui_01-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_60\\kawasui_12-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_60\\kawasui_17-scaled.jpg"
+      ],
+      "folder": "Case_60"
+    },
+    "61": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_61\\himeji_20_2.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_61\\himeji_23.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_61\\himeji_24.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_61\\himeji_27_2.jpg"
+      ],
+      "folder": "Case_61"
+    },
+    "62": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_62\\maruoka_cl_c_07.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_62\\maruoka_cl_c_02.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_62\\maruoka_cl_f_07_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_62\\maruoka_cl_f_01.jpg"
+      ],
+      "folder": "Case_62"
+    },
+    "63": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_63\\npbt_11.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_63\\npbt_07.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_63\\npbt_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_63\\npbt_01.jpg"
+      ],
+      "folder": "Case_63"
+    },
+    "64": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_64\\fujita-museum_01-scaled.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_64\\fujita-museum_02.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_64\\fujita-museum_03-scaled.jpg"
+      ],
+      "folder": "Case_64"
+    },
+    "65": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_65\\kokoku_11-1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_65\\kokoku_10-1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_65\\kokoku_05-1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_65\\kokoku_06-1.jpg"
+      ],
+      "folder": "Case_65"
+    },
+    "66": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_66\\amano-hashidate02.png",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_66\\amano-hashidate03.png",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_66\\amano-hashidate04.png"
+      ],
+      "folder": "Case_66"
+    },
+    "67": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_67\\nitto_012021-scaled.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_67\\nitto_052021-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_67\\nitto_022021-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_67\\nitto_042021-scaled.jpg"
+      ],
+      "folder": "Case_67"
+    },
+    "68": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_68\\jdm_04-scaled.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_68\\jdm_01-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_68\\jdm_03-scaled.jpg"
+      ],
+      "folder": "Case_68"
+    },
+    "69": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_69\\atyp1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_69\\atyp7.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_69\\atyp2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_69\\atyp5.jpg"
+      ],
+      "folder": "Case_69"
+    },
+    "70": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_70\\naum4.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_70\\naum3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_70\\naum6.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_70\\naum7.jpg"
+      ],
+      "folder": "Case_70"
+    },
+    "71": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_71\\OCCPH_2019_01-scaled.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_71\\OCCPH_2019_02-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_71\\OCCPH_2019_06-scaled.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_71\\OCCPH_2019_07-scaled.jpg"
+      ],
+      "folder": "Case_71"
+    },
+    "72": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_72\\shibuyastream_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_72\\shibuyastream_4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_72\\shibuyastream_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_72\\shibuyastream_6.jpg"
+      ],
+      "folder": "Case_72"
+    },
+    "73": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_73\\tedxkyoto1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_73\\tedxkyoto3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_73\\tedxkyoto4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_73\\tedxkyoto5.jpg"
+      ],
+      "folder": "Case_73"
+    },
+    "74": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_74\\hikari18-2.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_74\\hikari18-1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_74\\hikari18-5.jpg"
+      ],
+      "folder": "Case_74"
+    },
+    "75": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_75\\miyako4.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_75\\miyako3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_75\\miyako6.jpg"
+      ],
+      "folder": "Case_75"
+    },
+    "76": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_76\\miraifes1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_76\\miraifes3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_76\\miraifes4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_76\\miraifes7.jpg"
+      ],
+      "folder": "Case_76"
+    },
+    "77": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_77\\sake8.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_77\\sake7.jpeg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_77\\sake1.jpeg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_77\\sake3.jpg"
+      ],
+      "folder": "Case_77"
+    },
+    "78": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_78\\rotary_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_78\\rotary_3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_78\\rotary_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_78\\rotary_5.jpg"
+      ],
+      "folder": "Case_78"
+    },
+    "79": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_79\\wow20_6.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_79\\wow20_8.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_79\\wow20_1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_79\\wow20_5.jpg"
+      ],
+      "folder": "Case_79"
+    },
+    "80": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_80\\sego_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_80\\sego_4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_80\\sego_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_80\\sego_6.jpg"
+      ],
+      "folder": "Case_80"
+    },
+    "81": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_81\\shampoo_4.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_81\\shampoo_5.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_81\\shampoo_3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_81\\shampoo_6.jpg"
+      ],
+      "folder": "Case_81"
+    },
+    "82": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_82\\fukuoka_2.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_82\\fukuoka_1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_82\\fukuoka_7.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_82\\fukuoka_16.jpg"
+      ],
+      "folder": "Case_82"
+    },
+    "83": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_83\\OCCPH_2017_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_83\\OCCPH_2017_03.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_83\\OCCPH_2017_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_83\\OCCPH_2017_05.jpg"
+      ],
+      "folder": "Case_83"
+    },
+    "84": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_84\\nonotak_10.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_84\\nonotak_3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_84\\nonotak_4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_84\\nonotak_1.jpg"
+      ],
+      "folder": "Case_84"
+    },
+    "85": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_85\\gamba_04.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_85\\gamba_01.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_85\\gamba_05.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_85\\gamba_06.jpg"
+      ],
+      "folder": "Case_85"
+    },
+    "86": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_86\\OCCPH_2016_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_86\\OCCPH_2016_05.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_86\\OCCPH_2016_06.jpg"
+      ],
+      "folder": "Case_86"
+    },
+    "87": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_87\\amagase_04.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_87\\amagase_03.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_87\\amagase_01.jpg"
+      ],
+      "folder": "Case_87"
+    },
+    "88": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_88\\OCCPH_2015_04.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_88\\OCCPH_2015_02.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_88\\OCCPH_2015_06.jpg"
+      ],
+      "folder": "Case_88"
+    },
+    "89": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_89\\bien_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_89\\bien_05.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_89\\bien_04.jpg"
+      ],
+      "folder": "Case_89"
+    },
+    "90": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_90\\tsukiji_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_90\\tsukiji_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_90\\tsukiji_05.jpg"
+      ],
+      "folder": "Case_90"
+    },
+    "91": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_91\\kyoto_seika_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_91\\kyoto_seika_03.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_91\\kyoto_seika_04.jpg"
+      ],
+      "folder": "Case_91"
+    },
+    "92": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_92\\hankyu_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_92\\hankyu_3.jpg"
+      ],
+      "folder": "Case_92"
+    },
+    "93": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_93\\lux_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_93\\lux_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_93\\microtile.jpg"
+      ],
+      "folder": "Case_93"
+    },
+    "94": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_94\\mbs_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_94\\mbs_2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_94\\mbs_3.jpg"
+      ],
+      "folder": "Case_94"
+    },
+    "95": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_95\\duokobe1-500x325.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_95\\duokobe_4.jpg"
+      ],
+      "folder": "Case_95"
+    },
+    "96": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_96\\yanmer_1.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_96\\yanmer_3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_96\\yanmer_4.jpg"
+      ],
+      "folder": "Case_96"
+    },
+    "97": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_97\\kamogawa_02.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_97\\kamogawa_01.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_97\\kamogawa_04_3.jpg"
+      ],
+      "folder": "Case_97"
+    },
+    "98": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_98\\ichiban_04.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_98\\ichiban_05.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_98\\ichiban_01.jpg"
+      ],
+      "folder": "Case_98"
+    },
+    "99": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_99\\tokyuhands_01.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_99\\tokyuhands_04.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_99\\tokyuhands_02.jpg"
+      ],
+      "folder": "Case_99"
+    },
+    "100": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\MinnaThumb.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\5.jpg"
+      ],
+      "folder": "Case_100"
+    },
+    "101": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\MinnaThumb.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\5.jpg"
+      ],
+      "folder": "Case_100"
+    },
+    "102": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\MinnaThumb.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\5.jpg"
+      ],
+      "folder": "Case_100"
+    },
+    "103": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\MinnaThumb.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\5.jpg"
+      ],
+      "folder": "Case_100"
+    },
+    "104": {
+      "main": "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\MinnaThumb.jpg",
+      "subs": [
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\1.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\2.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\3.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\4.jpg",
+        "E:\\ggmd\\claude\\argus-canvas-showcase\\data\\cases\\images\\Case_100\\5.jpg"
+      ],
+      "folder": "Case_100"
+    }
+  },
+  "missing": [],
+  "duplicates": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "MinnaThumb.jpg"
+  ],
+  "case_folder_mapping": {
+    "105": "Case_105",
+    "106": "Case_106",
+    "107": "Case_107",
+    "108": "Case_108",
+    "109": "Case_109",
+    "110": "Case_110",
+    "111": "Case_111",
+    "112": "Case_112",
+    "113": "Case_113",
+    "114": "Case_114",
+    "115": "Case_115",
+    "1": "Case_1",
+    "2": "Case_2",
+    "3": "Case_3",
+    "4": "Case_4",
+    "5": "Case_5",
+    "6": "Case_6",
+    "7": "Case_7",
+    "8": "Case_8",
+    "9": "Case_9",
+    "10": "Case_10",
+    "11": "Case_11",
+    "12": "Case_12",
+    "13": "Case_13",
+    "14": "Case_14",
+    "15": "Case_15",
+    "16": "Case_16",
+    "17": "Case_17",
+    "18": "Case_18",
+    "19": "Case_19",
+    "20": "Case_20",
+    "21": "Case_21",
+    "22": "Case_22",
+    "23": "Case_23",
+    "24": "Case_24",
+    "25": "Case_25",
+    "26": "Case_26",
+    "27": "Case_27",
+    "28": "Case_28",
+    "29": "Case_29",
+    "30": "Case_30",
+    "31": "Case_31",
+    "32": "Case_32",
+    "33": "Case_33",
+    "34": "Case_34",
+    "35": "Case_35",
+    "36": "Case_36",
+    "37": "Case_37",
+    "38": "Case_38",
+    "39": "Case_39",
+    "40": "Case_40",
+    "41": "Case_41",
+    "42": "Case_42",
+    "43": "Case_43",
+    "44": "Case_44",
+    "45": "Case_45",
+    "46": "Case_46",
+    "47": "Case_47",
+    "48": "Case_48",
+    "49": "Case_49",
+    "50": "Case_50",
+    "51": "Case_51",
+    "52": "Case_52",
+    "53": "Case_53",
+    "54": "Case_54",
+    "55": "Case_55",
+    "56": "Case_56",
+    "57": "Case_57",
+    "58": "Case_58",
+    "59": "Case_59",
+    "60": "Case_60",
+    "61": "Case_61",
+    "62": "Case_62",
+    "63": "Case_63",
+    "64": "Case_64",
+    "65": "Case_65",
+    "66": "Case_66",
+    "67": "Case_67",
+    "68": "Case_68",
+    "69": "Case_69",
+    "70": "Case_70",
+    "71": "Case_71",
+    "72": "Case_72",
+    "73": "Case_73",
+    "74": "Case_74",
+    "75": "Case_75",
+    "76": "Case_76",
+    "77": "Case_77",
+    "78": "Case_78",
+    "79": "Case_79",
+    "80": "Case_80",
+    "81": "Case_81",
+    "82": "Case_82",
+    "83": "Case_83",
+    "84": "Case_84",
+    "85": "Case_85",
+    "86": "Case_86",
+    "87": "Case_87",
+    "88": "Case_88",
+    "89": "Case_89",
+    "90": "Case_90",
+    "91": "Case_91",
+    "92": "Case_92",
+    "93": "Case_93",
+    "94": "Case_94",
+    "95": "Case_95",
+    "96": "Case_96",
+    "97": "Case_97",
+    "98": "Case_98",
+    "99": "Case_99",
+    "100": "Case_100",
+    "101": "Case_100",
+    "102": "Case_100",
+    "103": "Case_100",
+    "104": "Case_100"
+  }
+}
