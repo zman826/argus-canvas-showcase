@@ -26,6 +26,13 @@ OLLAMA_URL: str = "http://localhost:11434/v1/chat/completions"
 # gemma4:e4b に戻す想定。判断履歴は memory/project_argus_canvas_showcase.md 参照。
 MODEL: str = "gemma3:4b"
 
+# Ollama HTTP リクエストのタイムアウト（秒）.
+# - cold start（モデル未ロード状態からの初回呼び出し）は実測 14〜32秒かかるため、
+#   余裕を見て 120秒 に設定。
+# - warm cycle は 3〜4秒で完了するので影響なし。
+# - Ollama の keep_alive は 5分（デフォルト）。それを超えると再 cold start。
+OLLAMA_TIMEOUT_SEC: float = 120.0
+
 # スクリプト位置: <project_root>/scripts/voice/classify_intent.py
 # プロンプト位置: <project_root>/data/prompts/intent_classification_v1.md
 _PROJECT_ROOT: Path = Path(__file__).resolve().parent.parent.parent
@@ -105,15 +112,20 @@ def _extract_json_block(text: str) -> dict[str, Any]:
         raise ValueError(f"JSONパース失敗: {e} / snippet={snippet[:200]}") from e
 
 
-def classify_intent(text: str, system_prompt: str) -> dict[str, Any]:
+def classify_intent(
+    text: str,
+    system_prompt: str,
+    timeout: float = OLLAMA_TIMEOUT_SEC,
+) -> dict[str, Any]:
     """発話テキストをインテント分類する.
 
-    Ollama に gemma4:e4b でリクエストし、JSON出力をパースして返す。
+    Ollama に gemma3:4b でリクエストし、JSON出力をパースして返す。
     失敗時は error キーを含むdictを返す（例外を投げない）。
 
     Args:
         text: 文字起こし済み発話テキスト。
-        system_prompt: システムプロンプト文字列（load_system_prompt() の結果）。
+        system_prompt: システムプロンプト文字列（load_system_prompt() の結果)。
+        timeout: HTTPリクエストのタイムアウト秒数（既定: OLLAMA_TIMEOUT_SEC）。
 
     Returns:
         成功時:
@@ -136,7 +148,7 @@ def classify_intent(text: str, system_prompt: str) -> dict[str, Any]:
     start = time.time()
 
     try:
-        resp = requests.post(OLLAMA_URL, json=payload, timeout=30)
+        resp = requests.post(OLLAMA_URL, json=payload, timeout=timeout)
     except requests.exceptions.ConnectionError as e:
         return {
             "error": (
@@ -147,7 +159,7 @@ def classify_intent(text: str, system_prompt: str) -> dict[str, Any]:
         }
     except requests.exceptions.Timeout:
         return {
-            "error": "Ollama 応答タイムアウト（30秒超過）",
+            "error": f"Ollama 応答タイムアウト（{timeout:.0f}秒超過）",
             "duration_sec": time.time() - start,
         }
 

@@ -199,6 +199,29 @@ def _safe_delete(path: Path) -> None:
         pass
 
 
+def warmup_ollama(system_prompt: str) -> None:
+    """Ollama にダミー推論を送り、gemma3:4b を VRAM に事前ロードする.
+
+    起動時に5〜30秒の cold start を吸収しておくことで、来場者の初回発話に対する
+    レイテンシが warm cycle 並みに短縮される。Ollama の keep_alive（既定 5分）が
+    切れると再 cold になるため、長時間アイドル後の運用では再 warmup が必要。
+
+    Args:
+        system_prompt: classify_intent と同じシステムプロンプト。
+    """
+    print("[main] Ollama (gemma3:4b) warmup 中... (cold時は15〜30秒)")
+    start = time.time()
+    result = classify_intent("テスト", system_prompt)
+    elapsed = time.time() - start
+    if "error" in result:
+        print(
+            f"[main] warmup 警告: {result['error']} ({elapsed:.1f}秒)",
+            file=sys.stderr,
+        )
+    else:
+        print(f"[main] warmup 完了 ({elapsed:.1f}秒、次回以降は warm)")
+
+
 def append_log(result: dict[str, Any]) -> None:
     """結果を日付別 JSONL ファイルに追記する.
 
@@ -245,6 +268,11 @@ def main() -> int:
         "--no-rag",
         action="store_true",
         help="RAG 検索ステップをスキップ（インテント分類までで止める）",
+    )
+    parser.add_argument(
+        "--no-warmup",
+        action="store_true",
+        help="起動時の Ollama warmup をスキップ（テスト/開発用）",
     )
     args = parser.parse_args()
 
@@ -299,6 +327,12 @@ def main() -> int:
         print("[main] RAG 検索無効化（--no-rag）")
 
     system_prompt = load_system_prompt()
+
+    # Ollama warmup（cold start 対策、来場者の初回発話レイテンシを短縮）
+    if not args.no_warmup:
+        warmup_ollama(system_prompt)
+    else:
+        print("[main] Ollama warmup スキップ（--no-warmup）")
 
     if args.once:
         result = run_once(model, system_prompt, vocabulary, use_bias, use_rag)
