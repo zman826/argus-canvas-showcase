@@ -8,13 +8,16 @@
         Background="White"
         FontFamily="{StaticResource PrimaryFontFamily}">
     <Grid>
-        <!-- 円形フローティング演出のキャンバス。
-             TODO(Phase 5): Constants.FloatingCircleCount 個の円を
-             直径 50〜250px・FadeIn/Out 1.5秒 でアニメーションさせる。 -->
-        <Canvas x:Name="FloatingCanvas" />
+        <!-- 円形フローティング演出のキャンバス（最背面）。
+             StandbyWindow.xaml.cs の InitializeAnimation() で
+             Constants.CircleCount 個の円を生成・アニメーションさせる。 -->
+        <Canvas x:Name="AnimationCanvas"
+                Panel.ZIndex="0"
+                Background="White" />
 
         <!-- 上部中央：テキストロゴ -->
         <TextBlock Text="CIMA"
+                   Panel.ZIndex="10"
                    FontSize="48"
                    FontWeight="Bold"
                    Foreground="{StaticResource CimaBrandBrush}"
@@ -24,6 +27,7 @@
 
         <!-- 下部中央：誘導メッセージ -->
         <TextBlock Text="🎙️ 話しかけてください　/　👆 タッチしてください"
+                   Panel.ZIndex="10"
                    FontSize="28"
                    Foreground="#333333"
                    HorizontalAlignment="Center"
