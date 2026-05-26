@@ -1,0 +1,97 @@
+<Window x:Class="Showcase.UI.Windows.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CIMA Showcase - Detail"
+        WindowStyle="None"
+        WindowState="Maximized"
+        ResizeMode="NoResize"
+        Background="White"
+        FontFamily="{StaticResource PrimaryFontFamily}">
+    <Grid Margin="60,40,60,30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <!-- メイン写真（実画像は Phase 6 で差替） -->
+                <Rectangle Height="400" Fill="#E8EEF7" />
+
+                <!-- サムネイル横並び（5 件） -->
+                <StackPanel x:Name="ThumbnailPanel"
+                            Orientation="Horizontal"
+                            Margin="0,12,0,0" />
+
+                <!-- タイトル -->
+                <TextBlock x:Name="TitleText"
+                           FontSize="34"
+                           FontWeight="Bold"
+                           Foreground="#1A1A1A"
+                           TextWrapping="Wrap"
+                           Margin="0,24,0,0" />
+
+                <!-- サブタイトル -->
+                <TextBlock x:Name="SubTitleText"
+                           FontSize="22"
+                           Foreground="#555555"
+                           TextWrapping="Wrap"
+                           Margin="0,8,0,0" />
+
+                <!-- メタデータ（年・カテゴリ） -->
+                <StackPanel Orientation="Horizontal" Margin="0,16,0,0">
+                    <TextBlock x:Name="YearText"
+                               FontSize="17"
+                               Foreground="#666666" />
+                    <TextBlock Text="　/　"
+                               FontSize="17"
+                               Foreground="#999999" />
+                    <TextBlock x:Name="CategoryText"
+                               FontSize="17"
+                               Foreground="{StaticResource CimaBrandBrush}" />
+                </StackPanel>
+
+                <!-- 説明文 -->
+                <TextBlock x:Name="DescriptionText"
+                           FontSize="18"
+                           LineHeight="30"
+                           Foreground="#333333"
+                           TextWrapping="Wrap"
+                           MaxHeight="280"
+                           Margin="0,24,0,0" />
+
+                <!-- 関連事例 -->
+                <TextBlock Text="関連事例"
+                           FontSize="22"
+                           FontWeight="Bold"
+                           Foreground="#222222"
+                           Margin="0,40,0,12" />
+                <StackPanel x:Name="RelatedPanel"
+                            Orientation="Horizontal" />
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- フッター：一覧へ / ホームへ -->
+        <StackPanel Grid.Row="1"
+                    Orientation="Horizontal"
+                    Margin="0,20,0,0">
+            <Button Content="← 一覧に戻る"
+                    FontSize="20"
+                    Background="Transparent"
+                    BorderThickness="0"
+                    Foreground="#555555"
+                    Padding="12,8"
+                    Cursor="Hand"
+                    Click="OnBackToResults" />
+            <Button Content="🏠 ホームへ"
+                    FontSize="20"
+                    Background="Transparent"
+                    BorderThickness="0"
+                    Foreground="#555555"
+                    Margin="24,0,0,0"
+                    Padding="12,8"
+                    Cursor="Hand"
+                    Click="OnHome" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+<Application x:Class="Showcase.UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Application.Resources>
+        <!-- ブランドカラー（Constants.CimaBrandColorHex と一致させること） -->
+        <Color x:Key="CimaBrandColor">#0066CC</Color>
+        <SolidColorBrush x:Key="CimaBrandBrush" Color="{StaticResource CimaBrandColor}" />
+        <SolidColorBrush x:Key="SecondaryButtonBrush" Color="#F0F4FF" />
+
+        <!-- 既定フォント（Constants.PrimaryFontFamily と一致） -->
+        <FontFamily x:Key="PrimaryFontFamily">Yu Gothic UI</FontFamily>
+    </Application.Resources>
+</Application>

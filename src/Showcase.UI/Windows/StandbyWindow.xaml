@@ -1,0 +1,48 @@
+<Window x:Class="Showcase.UI.Windows.StandbyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CIMA Showcase"
+        WindowStyle="None"
+        WindowState="Maximized"
+        ResizeMode="NoResize"
+        Background="White"
+        FontFamily="{StaticResource PrimaryFontFamily}">
+    <Grid>
+        <!-- 円形フローティング演出のキャンバス。
+             TODO(Phase 5): Constants.FloatingCircleCount 個の円を
+             直径 50〜250px・FadeIn/Out 1.5秒 でアニメーションさせる。 -->
+        <Canvas x:Name="FloatingCanvas" />
+
+        <!-- 上部中央：テキストロゴ -->
+        <TextBlock Text="CIMA"
+                   FontSize="48"
+                   FontWeight="Bold"
+                   Foreground="{StaticResource CimaBrandBrush}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Top"
+                   Margin="0,80,0,0" />
+
+        <!-- 下部中央：誘導メッセージ -->
+        <TextBlock Text="🎙️ 話しかけてください　/　👆 タッチしてください"
+                   FontSize="28"
+                   Foreground="#333333"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Bottom"
+                   Margin="0,0,0,100" />
+
+        <!-- 全面透明ボタン：クリック/タッチで Home へ -->
+        <Button x:Name="TouchButton"
+                Background="Transparent"
+                BorderThickness="0"
+                Click="OnTouch"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Stretch"
+                Cursor="Hand">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}" />
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>
