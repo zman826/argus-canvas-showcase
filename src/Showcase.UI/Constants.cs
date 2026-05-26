@@ -45,17 +45,47 @@ public static class Constants
     /// <summary>関連事例の最大表示件数。</summary>
     public const int RelatedCaseMaxCount = 5;
 
-    // --- FloatingCanvas（待機画面の円形フローティング演出。アニメ本体は Phase 5）---
+    // ===== Phase 5: 円形フローティングアニメーション =====
 
-    /// <summary>フローティング円の個数。</summary>
-    public const int FloatingCircleCount = 25;
+    /// <summary>同時表示する円の個数。</summary>
+    public const int CircleCount = 25;
 
-    /// <summary>フローティング円の最小直径(px)。</summary>
-    public const double FloatingCircleMinDiameter = 50;
+    /// <summary>円の最小直径(px)。</summary>
+    public const double MinDiameter = 50.0;
 
-    /// <summary>フローティング円の最大直径(px)。</summary>
-    public const double FloatingCircleMaxDiameter = 250;
+    /// <summary>円の最大直径(px)。</summary>
+    public const double MaxDiameter = 250.0;
 
-    /// <summary>フローティング円の FadeIn/Out 秒数。</summary>
-    public const double FloatingCircleFadeSeconds = 1.5;
+    /// <summary>漂い（ドリフト）の基準速度係数。</summary>
+    public const double DriftSpeed = 0.3;
+
+    /// <summary>拡縮（パルス）の基準速度係数。</summary>
+    public const double PulseSpeed = 0.5;
+
+    /// <summary>パルス時の最小スケール。</summary>
+    public const double MinScale = 0.7;
+
+    /// <summary>パルス時の最大スケール。</summary>
+    public const double MaxScale = 1.3;
+
+    /// <summary>FadeIn / FadeOut の秒数。</summary>
+    public const double FadeDurationSec = 1.5;
+
+    /// <summary>表示維持時間の最小秒数。</summary>
+    public const double MinDisplaySec = 2.0;
+
+    /// <summary>表示維持時間の最大秒数。</summary>
+    public const double MaxDisplaySec = 4.0;
+
+    /// <summary>アニメーションのフレームレート(fps)。</summary>
+    public const int AnimationFps = 60;
+
+    /// <summary>事例写真の基準ディレクトリ（リポジトリルートからの相対）。</summary>
+    public const string ImagesDirectory = "data/cases/images";
+
+    /// <summary>写真が無い場合に円へ適用するシーマブルー系フォールバック色。</summary>
+    public static readonly string[] FallbackColors = new[]
+    {
+        "#0066CC", "#3388DD", "#6AAAE8", "#99CCFF", "#CCE5FF"
+    };
 }
