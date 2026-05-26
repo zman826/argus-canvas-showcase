@@ -1,0 +1,73 @@
+<Window x:Class="Showcase.UI.Windows.HomeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CIMA Showcase - Home"
+        WindowStyle="None"
+        WindowState="Maximized"
+        ResizeMode="NoResize"
+        Background="White"
+        FontFamily="{StaticResource PrimaryFontFamily}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- 上部中央：ロゴ -->
+        <TextBlock Grid.Row="0"
+                   Text="CIMA"
+                   FontSize="48"
+                   FontWeight="Bold"
+                   Foreground="{StaticResource CimaBrandBrush}"
+                   HorizontalAlignment="Center"
+                   Margin="0,60,0,0" />
+
+        <!-- 中央：3 ボタン縦並び -->
+        <StackPanel Grid.Row="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <Button Content="🎙️ 音声で事例を探す"
+                    Width="480" Height="90"
+                    FontSize="26" FontWeight="Bold"
+                    Foreground="White"
+                    Background="{StaticResource CimaBrandBrush}"
+                    BorderThickness="0"
+                    Margin="0,0,0,24"
+                    Cursor="Hand"
+                    Click="OnSearchByVoice" />
+
+            <Button Content="⌨️ キーワードで検索"
+                    Width="480" Height="70"
+                    FontSize="22"
+                    Foreground="{StaticResource CimaBrandBrush}"
+                    Background="{StaticResource SecondaryButtonBrush}"
+                    BorderThickness="0"
+                    Margin="0,0,0,16"
+                    Cursor="Hand"
+                    Click="OnSearchByKeyword" />
+
+            <Button Content="📂 カテゴリから選ぶ"
+                    Width="480" Height="70"
+                    FontSize="22"
+                    Foreground="{StaticResource CimaBrandBrush}"
+                    Background="{StaticResource SecondaryButtonBrush}"
+                    BorderThickness="0"
+                    Cursor="Hand"
+                    Click="OnSearchByCategory" />
+        </StackPanel>
+
+        <!-- 左下：戻る -->
+        <Button Grid.Row="2"
+                Content="← 戻る"
+                FontSize="20"
+                Background="Transparent"
+                BorderThickness="0"
+                Foreground="#555555"
+                HorizontalAlignment="Left"
+                Margin="40,0,0,40"
+                Padding="12,8"
+                Cursor="Hand"
+                Click="OnBack" />
+    </Grid>
+</Window>
