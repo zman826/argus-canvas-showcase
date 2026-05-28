@@ -6,6 +6,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Threading;
 using Showcase.UI.Models;
 using Showcase.UI.Services;
+using Ellipse = System.Windows.Shapes.Ellipse;
 
 namespace Showcase.UI.Windows;
 
@@ -119,33 +120,30 @@ public partial class StandbyWindow : Window
     }
 
     /// <summary>
-    /// 円形要素（角丸 Border）を生成し、写真または単色で中身を満たして Canvas に追加する。
+    /// 円形要素（Ellipse）を生成し、写真は ImageBrush、なければ単色塗りで Canvas に追加する。
+    /// Ellipse は形状自体が楕円のため、子要素クリップ問題なしに確実に円形になる。
     /// </summary>
-    private Border CreateBubbleElement(string? imagePath)
+    private Ellipse CreateBubbleElement(string? imagePath)
     {
-        var border = new Border
-        {
-            CornerRadius = new CornerRadius(9999),
-            ClipToBounds = true
-        };
+        var ellipse = new Ellipse();
 
         if (imagePath is not null)
         {
-            border.Child = new Image
+            ellipse.Fill = new ImageBrush
             {
-                Source = GetCachedImage(imagePath),
+                ImageSource = GetCachedImage(imagePath),
                 Stretch = Stretch.UniformToFill
             };
         }
         else
         {
             string hex = Constants.FallbackColors[_random.Next(Constants.FallbackColors.Length)];
-            border.Background = new SolidColorBrush(
+            ellipse.Fill = new SolidColorBrush(
                 (Color)ColorConverter.ConvertFromString(hex));
         }
 
-        AnimationCanvas.Children.Add(border);
-        return border;
+        AnimationCanvas.Children.Add(ellipse);
+        return ellipse;
     }
 
     /// <summary>BitmapImage を OnLoad で事前デコードし、同一パスはキャッシュで使い回す。</summary>
@@ -191,10 +189,10 @@ public partial class StandbyWindow : Window
         bubble.DriftPhaseY = _random.NextDouble() * Math.PI * 2;
         bubble.PulsePhase = _random.NextDouble() * Math.PI * 2;
 
-        // 写真があれば別の写真へ差し替える。
-        if (_imagePaths.Count > 0 && bubble.Element.Child is Image image)
+        // 写真があれば別の写真へ差し替える（ImageBrush の ImageSource を差し替え）。
+        if (_imagePaths.Count > 0 && bubble.Element.Fill is ImageBrush brush)
         {
-            image.Source = GetCachedImage(_imagePaths[_random.Next(_imagePaths.Count)]);
+            brush.ImageSource = GetCachedImage(_imagePaths[_random.Next(_imagePaths.Count)]);
         }
 
         bubble.State = FadeState.FadingIn;
@@ -282,10 +280,10 @@ public partial class StandbyWindow : Window
             double diameter = bubble.BaseDiameter * scale;
 
             // --- 要素へ反映（中心座標 → 左上座標へ変換）---
+            // Ellipse は Width = Height のとき自動的に正円になるため CornerRadius は不要。
             var el = bubble.Element;
             el.Width = diameter;
             el.Height = diameter;
-            el.CornerRadius = new CornerRadius(diameter / 2.0);
             el.Opacity = bubble.Opacity;
             Canvas.SetLeft(el, bubble.X - diameter / 2.0);
             Canvas.SetTop(el, bubble.Y - diameter / 2.0);

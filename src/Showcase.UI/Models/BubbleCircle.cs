@@ -1,4 +1,4 @@
-using System.Windows.Controls;
+using System.Windows.Shapes;
 
 namespace Showcase.UI.Models;
 
@@ -20,8 +20,8 @@ public enum FadeState
 /// </summary>
 public sealed class BubbleCircle
 {
-    /// <summary>画面に配置される円形要素（CornerRadius で円に見せる Border）。</summary>
-    public required Border Element { get; init; }
+    /// <summary>画面に配置される円形要素（Ellipse で確実に円形クリップ）。</summary>
+    public required Ellipse Element { get; init; }
 
     /// <summary>現在の中心 X 座標（px）。</summary>
     public double X { get; set; }
